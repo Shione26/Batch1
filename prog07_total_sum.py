@@ -1,3 +1,5 @@
+# Prog07: Create a program that ask user to input 10 numbers. Print the sum of all the numbers.
+
 num1 = int(input("Enter a number 1: "))
 num2 = int(input("Enter a number 2: "))
 num3 = int(input("Enter a number 3: "))
